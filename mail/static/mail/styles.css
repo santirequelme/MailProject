@@ -1,0 +1,25 @@
+textarea {
+    min-height: 220px;
+}
+body {
+    background:url("background.jpg");
+}
+
+h2 {
+    color: #157ffb;
+}
+  
+.readed{
+    background-color: #847e97;
+  }
+
+.mailStyle{ 
+    border: 2px solid #157ffb;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.mailStyle:hover{
+    background-color: #157ffb;
+}
