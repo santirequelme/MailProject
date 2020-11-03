@@ -44,9 +44,6 @@ Using JavaScript, HTML, and CSS, complete the implementation of your single-page
     ````
     python -m pip install Django
     ````
-    ````
-    pip3 install markdown2
-    ````
 * In the root folder, execute 
     ````
     python manage.py runserver"
